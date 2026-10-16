@@ -1,3 +1,3 @@
-# Complex Studio layout previews
+# Complex Studio — Bold Perspective
 
-Five read-only visual options for the NSW Mathematics Extension 2 website. Open index.html or use GitHub Pages. No student records, passwords, server runtime or assessment answer banks are included.
+The user selected Layout 5 (E). The site root now opens that read-only visual preview. Compare all five designs at layouts.html. The functional Python application implements this selected design separately, including authentication, saved student work and teacher review; GitHub Pages hosts only static previews. No student records or credentials are included here.
